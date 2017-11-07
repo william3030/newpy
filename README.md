@@ -1,0 +1,2 @@
+# newpy
+beginner for python
